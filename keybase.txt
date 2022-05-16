@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/attara_
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://attara.dev
+  * I am attara_ (https://keybase.io/attara_) on keybase.
+  * I have a public key ASDpvS_uT3RY7be7zu5p67ZOrLu9Csbr8Qu05pVySRwjSwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e9bd2fee4f7458edb7bbceee69ebb64eacbbbd0ac6ebf10bb4e69572491c234b0a",
+      "host": "keybase.io",
+      "kid": "0120e9bd2fee4f7458edb7bbceee69ebb64eacbbbd0ac6ebf10bb4e69572491c234b0a",
+      "uid": "137f4881d3e2466381f655012f3a9f19",
+      "username": "attara_"
+    },
+    "merkle_root": {
+      "ctime": 1652733430,
+      "hash": "54b0cef41c681a57ad6cd1378afc61cbed478d9d369e2f9ccf8100cbd0e1e243af55478575d702e29488efdd89ffcaba48daa956a43b579d19c8ab5969fe99bc",
+      "hash_meta": "9cb3448c2bd085a634e567e6081d706b78723f2bee69c82bc7ec8a230f799546",
+      "seqno": 22498603
+    },
+    "service": {
+      "entropy": "gHTcgDg0Y+Zfb3k3+C/gg7Mc",
+      "hostname": "attara.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1652733456,
+  "expire_in": 504576000,
+  "prev": "25daa09cd4b8021e42cd5a7e4a4d40b49bae553f3465405d2eba5cc1b517bc0d",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6b0v7k90WO23u87uaeu2Tqy7vQrG6/ELtOaVckkcI0sKp3BheWxvYWTESpcCBsQgJdqgnNS4Ah5CzVp+Sk1AtJuuVT80ZUBdLrpcwbUXvA3EIIHMBdOyihW3rXd17lwuFNnA7MwI1OJQzIFf8t+km6t3AgHCo3NpZ8RAx/ldSlOcYvpmp/cLv5VcSdPxOmVwU4+GX+rUTZu9SuG5zATzkhIrn/ut+fsZgt1SPbRcBJ4MOoplGcLz7elfD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGhXWyOtqdtLEn0OGsAJQX77VPx5HR1yvOwDEvAHjhaHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/attara_
+
+==================================================================
