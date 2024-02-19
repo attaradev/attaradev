@@ -17,7 +17,7 @@ I enjoy working with people in cross-functional teams and learning new tools, be
 
 - 🌱  I’m currently learning about `software system design and architecture`, and `cloud technology` best practices.
 
-- 👯 I’m open to remote `backend or full-stack developer | developer advocate | program manager | support engineer roles
+- 👯 I’m open to remote `backend` or `full-stack developer` | `developer advocate` | `program manager` | `support engineer` roles
 
 - 💬  Ask me about `JavaScript/React`, `Developer Community Support and Engagement`, and `Open Source`
 
