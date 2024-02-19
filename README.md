@@ -22,4 +22,4 @@ I enjoy working with people in cross-functional teams and learning new tools, be
 - 💬  Ask me about `JavaScript/React`, `Developer Community Support and Engagement`, and `Open Source`
 
 - 📫  How to reach me:
-  [Email](mailto:mpyebattara@gmail.com) | [Twitter](https://twitter.com/attara__) | [LinkedIn](https://www.linkedin.com/in/attara)
+  [Email](mailto:mpyebattara@gmail.com) | [Twitter](https://twitter.com/attaradev) | [LinkedIn](https://www.linkedin.com/in/attaradev)
