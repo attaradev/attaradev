@@ -13,13 +13,13 @@ I enjoy working with people in cross-functional teams and learning new tools, be
 
 - ⚡  Fun fact: *Inquisitive and loves crushing bugs*
 
-- 🔭  I’m building solutions for making global payments hassle-free for African businesses at [Wewire Africa](https://www.wewireafrica.com/), and raising the next generation of technologists through the [GDG Accra](https://gdg.community.dev/gdg-accra/) community and [FOSUniverse](https://fosuniverse.org).
+- 🔭  I’m building solutions for making appraising heavy equipments hassle-free at [Purple Wave Auction](https://purplewave.com), and raising the next generation of technologists through the [GDG Accra](https://gdg.community.dev/gdg-accra/) community and [FOSUniverse](https://fosuniverse.org).
 
 - 🌱  I’m currently learning about `software system design and architecture`, and `cloud technology` best practices.
 
-- 👯 I’m open to remote `backend` or `full-stack developer` | `developer advocate` | `program manager` | `support engineer` roles
+- 👯 I’m open to remote `backend` or `full-stack developer` | `developer advocate` | `program manager` | `solution/software architect` roles
 
-- 💬  Ask me about `JavaScript/React`, `Developer Community Support and Engagement`, and `Open Source`
+- 💬  Ask me about`Ruby on Rails`, `Java/Springboot`, `JavaScript/React`, `Microservices`, `Developer Community Support and Engagement`, and `Open Source`
 
 - 📫  How to reach me:
   [Email](mailto:mpyebattara@gmail.com) | [Twitter](https://twitter.com/attaradev) | [LinkedIn](https://www.linkedin.com/in/attaradev)
