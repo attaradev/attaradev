@@ -25,9 +25,11 @@
 
 ## 🤝 Let’s Connect
 
-- 💬 Ask me about: `Rails`, `Spring Boot`, `React`, `Microservices`, `Developer Experience`, `Open Source`  
-- 💼 **Open to conversations** around impactful backend, full-stack, or developer advocacy opportunities  
-  > While I’m not actively job searching, I’m open to the right opportunity — especially one that aligns with my passion for resilient systems and community-driven technology.
-- 📫 Reach out: [Email](mailto:mpyebattara@gmail.com) • [Twitter](https://twitter.com/attaradev) • [LinkedIn](https://www.linkedin.com/in/attaradev)
+- 💼 Open to conversations around impactful **backend**, **full-stack**, or **developer advocacy** opportunities  
+  > While I’m not actively job hunting, I’m open to the right opportunity — especially one aligned with my passion for resilient systems and community-driven technology.
 
-⚡ **Fun Fact**: I'm deeply curious and love crushing bugs 🐛
+- 💬 Ask me about: designing scalable systems with `Rails`, `NestJS`, or `Spring Boot`; building modern UIs with `React`; developing `microservices` and APIs; improving `developer experience`; or contributing to `open source` projects and communities
+
+- 📫 Let’s connect: [Email](mailto:mpyebattara@gmail.com) • [Twitter](https://twitter.com/attaradev) • [LinkedIn](https://www.linkedin.com/in/attaradev)
+
+- ⚡ **Fun Fact:** I’m endlessly curious — and nothing beats the satisfaction of tracking down and crushing tricky bugs. 🐛
