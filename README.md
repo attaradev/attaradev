@@ -1,25 +1,42 @@
-### Hi there 👋
+# 👋 Hi, I’m Mike Attara
 
-I'm **Mike Attara**, a software engineer with a background in teaching science and mathematics.
- 
-I'm passionate about building products with delightful user experiences, and a desire to constantly learn and improve.
+**Human-centric Software Engineer** with a background in teaching science and mathematics. I build resilient backend systems, craft user-friendly interfaces, and empower developer communities.
 
-My strength lies within a solid understanding of the core **JavaScript** language, with hands-on experience in recent years in building scalable web applications using modern JavaScript tools like **React**, **Redux**, and **Node.js**. I also work with **Typescript**, **Python**, **Ruby on Rails**, **Docker/Kubernetes**, `AWS` (I'm AWS Certified Cloud Practitioner 👨🏾‍💻), and build **CI/CD pipelines** using `Github Actions`, `CircleCI`, `Travis`, `Helm`, `ArgoCD`, etc. 
+---
 
+## 🚀 What I Do
 
-I enjoy working with people in cross-functional teams and learning new tools, best practices, and skills for building, delivering, and maintaining resilient software solutions. I also spend some time `contributing to open source projects`, and `organizing and teaching at workshops and meetups`, as I care about giving back to the community.
+- Design and build distributed systems and modern web applications  
+- Develop clean, scalable backend architecture using **Ruby on Rails**, **NestJS**, and **Spring Boot**  
+- Craft responsive frontends with **React**, **Next.js**, **TypeScript**, and **TailwindCSS**  
+- Deploy to production using **Docker**, **Kubernetes**, and **AWS** (Certified Cloud Practitioner 👨🏾‍💻)  
+- Set up robust CI/CD workflows with **GitHub Actions**, **CircleCI**, **Helm**, and **ArgoCD**
 
-- 😄  Pronouns: He/him/his
+---
 
-- ⚡  Fun fact: *Inquisitive and loves crushing bugs*
+## 🧠 What I Value
 
-- 🔭  I’m building solutions for making appraising heavy equipments hassle-free at [Purple Wave Auction](https://purplewave.com), and raising the next generation of technologists through the [GDG Accra](https://gdg.community.dev/gdg-accra/) community and [FOSUniverse](https://fosuniverse.org).
+- 🛠 Crafting systems that are scalable, maintainable, and user-focused  
+- 🤝 Working with people in cross-functional teams  
+- 🎙 Sharing knowledge through workshops, meetups, and open-source contributions  
+- 🌍 Growing inclusive developer communities through [GDG Accra](https://gdg.community.dev/gdg-accra/), [FOSUniverse](https://fosuniverse.org), [DjangoGirls](https://djangogirls.org/), and [RailsGirls](https://railsgirls.com)
 
-- 🌱  I’m currently learning about `software system design and architecture`, and `cloud technology` best practices.
+---
 
-- 👯 I’m open to remote `backend` or `full-stack developer` | `developer advocate` | `program manager` | `solution/software architect` roles
+## 📌 Currently
 
-- 💬  Ask me about`Ruby on Rails`, `Java/Springboot`, `JavaScript/React`, `Microservices`, `Developer Community Support and Engagement`, and `Open Source`
+- 🔭 Building appraisal solutions at [Purple Wave Auction](https://purplewave.com)  
+- 🎓 Learning more about **software architecture** and **cloud-native best practices**
 
-- 📫  How to reach me:
-  [Email](mailto:mpyebattara@gmail.com) | [Twitter](https://twitter.com/attaradev) | [LinkedIn](https://www.linkedin.com/in/attaradev)
+---
+
+## 🤝 Let’s Connect
+
+- 💬 Ask me about: `Rails`, `Spring Boot`, `React`, `Microservices`, `Developer Experience`, `Open Source`  
+- 💼 **Open to conversations** around impactful backend, full-stack, or developer advocacy opportunities  
+  > While I’m not actively job searching, I’m open to the right opportunity if it aligns with my passion for resilient systems and community-driven tech.  
+- 📫 Reach out: [Email](mailto:mpyebattara@gmail.com) • [Twitter](https://twitter.com/attaradev) • [LinkedIn](https://www.linkedin.com/in/attaradev)
+
+---
+
+⚡ **Fun Fact**: I'm deeply curious and love crushing bugs 🐛
