@@ -4,16 +4,18 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mike Attara</title>
-    <meta name="description" content="Mike Attara is a results-driven software engineer passionate about building resilient systems and growing developer communities." />
+    <meta name="description" content="Mike Attara is a software engineer focused on building resilient systems, intuitive platforms, and inclusive developer communities." />
+    <meta name="author" content="Mike Attara" />
+    <link rel="canonical" href="https://attara.dev/" />
 
-    <!-- Facebook Meta Tags -->
+    <!-- Open Graph -->
     <meta property="og:url" content="https://attara.dev/">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Mike Attara">
     <meta property="og:description" content="Mike Attara is a results-driven Software Engineer focused on building resilient systems and empowering inclusive developer communities.">
     <meta property="og:image" content="https://attara.dev/assets/mike-attara.jpg">
 
-    <!-- Twitter Meta Tags -->
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="attara.dev">
     <meta property="twitter:url" content="https://attara.dev/">
@@ -21,15 +23,18 @@
     <meta name="twitter:description" content="Mike Attara is a results-driven Software Engineer focused on building resilient systems and empowering inclusive developer communities.">
     <meta name="twitter:image" content="https://attara.dev/assets/mike-attara.jpg">
 
+    <!-- Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
     <link rel="manifest" href="/favicons/site.webmanifest" />
-    <link rel="shortcut icon" href="/favicons/favicon.ico" />
+    <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
     <meta name="msapplication-TileColor" content="#da532c" />
     <meta name="msapplication-config" content="/favicons/browserconfig.xml" />
     <meta name="theme-color" content="#ffffff" />
+    <link rel="preload" as="image" href="/assets/bg.webp" />
 
+    <!-- Fonts & Styles -->
     <style>
       @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:400,900");
 
@@ -40,6 +45,7 @@
         font-family: "Source Code Pro", monospace;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
+        scroll-padding-top: 60px;
       }
 
       .cover {
@@ -55,7 +61,7 @@
         z-index: -1;
       }
 
-      .about {
+      main.about {
         background: rgba(0, 0, 0, 0.6);
         position: absolute;
         z-index: 10;
@@ -72,7 +78,7 @@
         -webkit-backdrop-filter: blur(8px);
       }
 
-      .about-title {
+      header.about-title {
         background: rgba(0, 0, 0, 0.85);
         color: #bcffd2;
         padding: 15px;
@@ -83,19 +89,20 @@
         z-index: 1;
       }
 
-      .about-title strong {
+      header.about-title h1 {
         font-size: 1.3em;
         color: #40ff7f;
+        margin: 0;
       }
 
-      .about-body {
+      section.about-body {
         padding: 15px;
         color: #bcffd2;
         line-height: 1.7em;
         font-size: 0.95rem;
       }
 
-      .about-body a {
+      section.about-body a {
         display: block;
         color: #bcffd2;
         text-decoration: none;
@@ -103,13 +110,15 @@
         word-break: break-word;
       }
 
-      .about-body a:hover {
+      section.about-body a:hover,
+      section.about-body a:focus {
         color: #40ff7f;
         text-decoration: underline;
+        outline: none;
       }
 
       @media (max-width: 768px) {
-        .about {
+        main.about {
           width: 92%;
           top: 8%;
           max-height: 86%;
@@ -117,41 +126,76 @@
       }
 
       @media (max-width: 480px) {
-        .about {
-          font-size: 0.9rem;
+        main.about {
+          font-size: 1rem;
         }
       }
     </style>
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Mike Attara",
+        "url": "https://attara.dev",
+        "image": "https://attara.dev/assets/mike-attara.jpg",
+        "sameAs": [
+          "https://www.linkedin.com/in/attaradev",
+          "https://github.com/attaradev",
+          "https://twitter.com/attaradev"
+        ],
+        "jobTitle": "Software Engineer",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Purplewave Auctions"
+        }
+      }
+    </script>
   </head>
 
   <body>
-    <div class="about">
-      <div class="about-title">
-        <strong>MIKE ATTARA</strong><br />
+    <main class="about">
+      <header class="about-title">
+        <h1>MIKE ATTARA</h1>
         Software Engineer — building resilient systems and scalable platforms with clarity, curiosity, and care.
-      </div>
-      <div class="about-body">
-      <p>
-        I'm a results-driven Software Engineer with a background in teaching, specializing in resilient backend systems and intuitive, user-centered applications. I've designed, built, and scaled platforms across fintech, telecom, and logistics—delivering high-impact features such as AI agents, KYC workflows, digital wallets, virtual cards, and real-time transaction processing using technologies like Ruby on Rails, NestJS (Node.js), Spring Boot, PostgreSQL, Docker, Kubernetes, AWS, React, and Next.js.
-      </p>
+      </header>
+      <section class="about-body">
+        <p>
+          I'm a results-driven Software Engineer with a background in teaching, specializing in resilient backend systems and intuitive, user-centered applications. I've designed, built, and scaled platforms across fintech, telecom, and logistics—delivering high-impact features such as AI agents, KYC workflows, digital wallets, virtual cards, and real-time transaction processing using technologies like Ruby on Rails, NestJS (Node.js), Spring Boot, PostgreSQL, Docker, Kubernetes, AWS, React, and Next.js.
+        </p>
 
-      <p>
-        Driven by curiosity and focused on impact, I continuously explore tools, technologies, and strategies that improve outcomes for users, teams, and businesses. From CI/CD automation to system performance and DevOps, I prioritize scalable, maintainable solutions that evolve with changing needs.
-      </p>
+        <p>
+          Driven by curiosity and focused on impact, I continuously explore tools, technologies, and strategies that improve outcomes for users, teams, and businesses. From CI/CD automation to system performance and DevOps, I prioritize scalable, maintainable solutions that evolve with changing needs.
+        </p>
 
-      <p>
+        <p>
           Beyond engineering, I’m passionate about mentorship and community. With a B.Ed. in IT Education, I bring a teaching mindset to collaboration—fostering clarity, shared growth, and continuous learning. I contribute to open-source, lead technical workshops, and support inclusive tech communities like GDG Accra, DjangoGirls, and RailsGirls.
-      </p>
+        </p>
 
-        <a href="https://drive.google.com/file/d/1NC5JmsAJ5FyNnwS7XthLkTt6m_wp550S/view?usp=sharing">&gt; View my Resume</a>
-        <a href="https://www.linkedin.com/in/attaradev">&gt; Connect with me on LinkedIn</a>
-        <a href="https://attara.medium.com">&gt; Read some of my musings</a>
-        <a href="https://twitter.com/attaradev">&gt; Follow me on Twitter</a>
-        <a href="https://github.com/attaradev">&gt; Check my profile on GitHub</a>
-        <a href="https://instagram.com/attaradev">&gt; Follow me on Instagram</a>
-        <a href="mailto:#">&gt; Send me an Email (mike at attara.dev)</a>
-      </div>
-    </div>
-    <div class="cover"></div>
+        <a href="https://attara.medium.com" target="_blank" rel="noopener noreferrer" aria-label="Visit my Medium blog">
+          &gt; Reflections on architecture, engineering, and growth
+        </a>
+        <a href="https://drive.google.com/file/d/1NC5JmsAJ5FyNnwS7XthLkTt6m_wp550S/view?usp=sharing" target="_blank" rel="noopener noreferrer" aria-label="View my resume on Google Drive">
+          &gt; View my Resume
+        </a>
+        <a href="https://www.linkedin.com/in/attaradev" target="_blank" rel="noopener noreferrer" aria-label="Connect with me on LinkedIn">
+          &gt; Connect with me on LinkedIn
+        </a>
+        <a href="https://github.com/attaradev" target="_blank" rel="noopener noreferrer" aria-label="Check my GitHub profile">
+          &gt; Explore my work on GitHub
+        </a>
+        <a href="https://twitter.com/attaradev" target="_blank" rel="noopener noreferrer" aria-label="Follow me on Twitter">
+          &gt; Follow me on Twitter
+        </a>
+        <a href="https://instagram.com/attaradev" target="_blank" rel="noopener noreferrer" aria-label="See what I’m up to on Instagram">
+          &gt; See what I’m up to on Instagram
+        </a>
+        <a href="mailto:#" aria-label="Send me an email at mike@attara.dev">
+          &gt; Send me an Email (mike at attara.dev)
+        </a>
+      </section>
+    </main>
+    <div class="cover" aria-hidden="true"></div>
   </body>
 </html>
