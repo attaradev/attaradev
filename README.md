@@ -15,9 +15,7 @@ Areas of interest:
 
 AWS-based infrastructure, container platforms, CI/CD pipelines, and operational reliability.
 
-Tools:
-
-`AWS` • `Docker` • `Kubernetes` • `GitHub Actions` • `Helm` • `ArgoCD`
+Tools: `AWS` • `Docker` • `Kubernetes` • `GitHub Actions` • `Helm` • `ArgoCD`
 
 ### Security & DevSecOps
 
@@ -27,9 +25,7 @@ Cloud security, IAM, secure CI/CD, and security automation.
 
 Service design, domain modeling, event-driven systems, and microservices.
 
-Technologies:
-
-`NodeJS` • `Ruby on Rails` • `Golang`
+Technologies: `NodeJS` • `Ruby on Rails` • `Golang`
 
 ## Community & Open Source
 
@@ -57,4 +53,5 @@ https://linkedin.com/in/attaradev
 
 Twitter  
 https://twitter.com/attaradev
+
 
