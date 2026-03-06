@@ -9,8 +9,6 @@ Areas of interest:
 - Distributed systems
 - Developer experience
 
----
-
 ## Work
 
 ### Cloud & Platform Engineering
@@ -21,13 +19,9 @@ Tools:
 
 `AWS` • `Docker` • `Kubernetes` • `GitHub Actions` • `Helm` • `ArgoCD`
 
----
-
 ### Security & DevSecOps
 
 Cloud security, IAM, secure CI/CD, and security automation.
-
----
 
 ### Backend & Architecture
 
@@ -37,20 +31,14 @@ Technologies:
 
 `NodeJS` • `Ruby on Rails` • `Golang`
 
----
-
 ## Community & Open Source
 
 - AWS Community Builder — Security  
 - Contributor to open source through bug fixes, improvements, and documentation
 
----
-
 ## Currently
 
 Building backend services and internal platforms at **Purple Wave Auctions**.
-
----
 
 ## Writing
 
@@ -69,3 +57,4 @@ https://linkedin.com/in/attaradev
 
 Twitter  
 https://twitter.com/attaradev
+
