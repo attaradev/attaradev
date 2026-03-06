@@ -1,35 +1,71 @@
 # 👋 Hi, I’m Mike Attara
 
-**Human-centric Software Engineer** with a background in teaching science and mathematics. I architect and build resilient backend systems and scalable platforms — crafting intuitive, user-friendly products that solve real-world problems. I’m driven by thoughtful design, cross-functional collaboration, and a lifelong commitment to learning and growth.
+**Cloud & Platform Engineer focused on secure and resilient systems.**
 
-## 🚀 What I Do
+Areas of interest:
 
-- 🧱 Design and build distributed systems and modern web applications  
-- 🛠 Develop clean, scalable backend architecture using **Ruby on Rails**, **NestJS**, and **Spring Boot**  
-- 🎨 Craft responsive frontends with **React**, **Next.js**, **TypeScript**, and **TailwindCSS**  
-- 🚢 Deploy to production using **Docker**, **Kubernetes**, and **AWS** (Certified Cloud Practitioner 👨🏾‍💻, currently preparing for the Solutions Architect certification)  
-- ⚙️ Set up robust CI/CD workflows with **GitHub Actions**, **CircleCI**, **Helm**, and **ArgoCD**
+- Cloud platforms and infrastructure
+- Security engineering
+- Distributed systems
+- Developer experience
 
-## 🧠 What I Value
+---
 
-- 🛠 Crafting systems that are scalable, maintainable, and user-focused  
-- 🤝 Working with people in cross-functional teams  
-- 🎙 Sharing knowledge through workshops, meetups, and open-source contributions  
-- 🌍 Growing inclusive developer communities through [GDG Accra](https://gdg.community.dev/gdg-accra/), [FOSUniverse](https://fosuniverse.org), [DjangoGirls](https://djangogirls.org/), and [RailsGirls](https://railsgirls.com)  
-- 🌱 Embracing new technologies and tools when they better solve real-world problems
+## Work
 
-## 📌 Currently
+### Cloud & Platform Engineering
 
-- 🔭 Building backend systems to streamline equipment appraisal workflows at [Purple Wave Auction](https://purplewave.com)  
-- 🎓 Deepening my expertise in **software architecture**, **cloud-native engineering best practices**, and **technology leadership & entrepreneurship**
+AWS-based infrastructure, container platforms, CI/CD pipelines, and operational reliability.
 
-## 🤝 Let’s Connect
+Tools:
 
-- 💼 Open to conversations around impactful **backend**, **full-stack**, or **developer advocacy** opportunities  
-  > While I’m not actively job hunting, I’m open to the right opportunity — especially one aligned with my passion for resilient systems and community-driven technology.
+`AWS` • `Docker` • `Kubernetes` • `GitHub Actions` • `Helm` • `ArgoCD`
 
-- 💬 Ask me about: designing scalable systems with `Rails`, `NestJS`, or `Spring Boot`; building modern UIs with `React`; developing `microservices` and APIs; improving `developer experience`; or contributing to `open source` projects and communities
+---
 
-- 📫 Let’s connect: [Email](mailto:mpyebattara@gmail.com) • [Twitter](https://twitter.com/attaradev) • [LinkedIn](https://www.linkedin.com/in/attaradev)
+### Security & DevSecOps
 
-- ⚡ **Fun Fact:** I’m endlessly curious — and nothing beats the satisfaction of tracking down and crushing tricky bugs. 🐛
+Cloud security, IAM, secure CI/CD, and security automation.
+
+---
+
+### Backend & Architecture
+
+Service design, domain modeling, event-driven systems, and microservices.
+
+Technologies:
+
+`NodeJS` • `Ruby on Rails` • `Golang`
+
+---
+
+## Community & Open Source
+
+- AWS Community Builder — Security  
+- Contributor to open source through bug fixes, improvements, and documentation
+
+---
+
+## Currently
+
+Building backend services and internal platforms at **Purple Wave Auctions**.
+
+---
+
+## Writing
+
+- [Personal Blog](https://blog.attara.dev)
+- [LinkedIn Newsletter](https://www.linkedin.com/newsletters/7331747170385113088/)
+
+---
+
+## Contact
+
+Email  
+mpyebattara@gmail.com
+
+LinkedIn  
+https://linkedin.com/in/attaradev
+
+Twitter  
+https://twitter.com/attaradev
