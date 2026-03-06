@@ -40,18 +40,3 @@ Building backend services and internal platforms at **Purple Wave Auctions**.
 
 - [Personal Blog](https://blog.attara.dev)
 - [LinkedIn Newsletter](https://www.linkedin.com/newsletters/7331747170385113088/)
-
----
-
-## Contact
-
-Email  
-mpyebattara@gmail.com
-
-LinkedIn  
-https://linkedin.com/in/attaradev
-
-Twitter  
-https://twitter.com/attaradev
-
-
